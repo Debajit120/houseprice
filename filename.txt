@@ -1,0 +1,4 @@
+debajit location-Chattarpur status-Ready to move new/resle-New bhk-3 area-1200 price-6914699
+debajit location-Chattarpur status-Ready to move new/resle-New bhk-4 area-2000 price-8756299
+debajit location-Vasant Kunj status-Ready to move new/resle-New bhk-4 area-1234 price-9869441
+devil location-Vasant Kunj status-Ready to move new/resle-New bhk-3 area-1200 price-10369581
